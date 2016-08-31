@@ -9,10 +9,11 @@ Java classes exploring Structures such as Linked-Lists etc
 > check the brackets.
 > The program runs as a command line program and takes a filename as an
 > argument and prints one of BALANCED or NOT BALANCED.
-> For example:!
-> ```bash C:> java checkBalanced “myProgram.java”!
-> C:> java checkBalanced “myProgram.java”!
-> BALANCED! !```
+> For example:  
+```bash 
+C:> java checkBalanced “myProgram.java”  
+C:> BALANCED! !  
+```
   
   
   
