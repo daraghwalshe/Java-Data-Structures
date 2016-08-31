@@ -12,9 +12,9 @@ Java classes exploring Structures such as Linked-Lists etc
 > For example:!
 > C:> java checkBalanced “myProgram.java”!
 > BALANCED! !
-
-<hr />
-
+  
+  
+  
 ## Part B
 > A program that simulates a token ring network. The implementation uses a circular
 > list where users can be added (Logged On) and removed (Logged Off) from the network.
@@ -26,6 +26,7 @@ Java classes exploring Structures such as Linked-Lists etc
 > The answer to this question is a random YES or NO. Eventually all user are logged off
 > the network and the loop should ends.
 > Your system outputs to screen each time a user logs on and when a user logs off.
-
+  
+  
 <hr />
 
