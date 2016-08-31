@@ -28,5 +28,5 @@ Java classes exploring Structures such as Linked-Lists etc
 > Your system outputs to screen each time a user logs on and when a user logs off.
   
   
-<hr />
+  
 
