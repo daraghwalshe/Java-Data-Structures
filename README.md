@@ -26,8 +26,8 @@ C:> BALANCED! !
 > all users have logged off the network. 
 > As the list is traversed each user is asked if they want to log off.
 > The answer to this question is a random YES or NO. Eventually all user are logged off
-> the network and the loop should ends.
-> Your system outputs to screen each time a user logs on and when a user logs off.
+> the network and the loop should end.
+> The system outputs to screen each time a user logs on and when a user logs off.
   
   
   
